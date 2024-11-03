@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'auth-bg': "url('./src/assets/auth-bg.jpg')",
-        'main-bg': "url('./src/assets/main-bg.jpg')",
+        'auth-bg': "url('/auth-bg.jpg')",
+        'main-bg': "url('/main-bg.jpg')",
       },
       colors: {
         'primary': '#ED6663',
